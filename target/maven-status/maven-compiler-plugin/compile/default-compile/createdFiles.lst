@@ -1,0 +1,11 @@
+com\qianyi\controller\CategoryController.class
+com\qianyi\controller\RoleController.class
+com\qianyi\BolgAdminApplication.class
+com\qianyi\controller\TagController.class
+com\qianyi\controller\ArticleController.class
+com\qianyi\controller\UserController.class
+com\qianyi\controller\MenuController.class
+com\qianyi\controller\uploadController.class
+com\qianyi\controller\AdminLoginController.class
+com\qianyi\filter\JwtAuthenticationTokenFilter.class
+com\qianyi\config\SecurityConfig.class
